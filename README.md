@@ -1,8 +1,11 @@
 <h1 align = "center">Hi 👋 I'm Fred</h1>
 
 ![Banner git](https://user-images.githubusercontent.com/91930704/146665177-72d0e1e4-7148-4a10-9b03-11097a4ce9c1.gif)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4rkd&show_icons=true&theme=synthwave)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkd)](https://github.com/anuraghazra/github-readme-stats) 
-- 📫 Contact me: frjimiramontesar@gmail.com 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4rkd&show_icons=true&theme=synthwave)                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4rkd)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Email: frjimiramontesar@gmail.com 
+- 💬 Linkedin: www.linkedin.com/in/fred-miramontes/
 
 
 
